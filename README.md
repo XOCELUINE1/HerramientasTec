@@ -1,2 +1,2 @@
-# Evidencia_JAVA
-Es la evidencia donde se ara un simulación de un sistema de administración. 
+#herramientas tecnologicas 
+es un progrma para administra la entrada y aslida del personal 
